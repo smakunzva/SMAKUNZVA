@@ -1,5 +1,13 @@
-### Hi there 👋
+<img class="image-placeholder" src="https://i.imgur.com/9dg3Pdn.jpg" style="width: 100px; height: 100px">
 
+
+
+### Hi guys 👋
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+I'm Steven K Makunzva and I like sharing knowledge and writing code. I also have a blog were I post progamming related topics from systems architecture, java programming, algorithms e.tc. https://www.developerssauna.stevekmak.com .
+Please feel free to subscribe  🙋 🙋, share 😍, comment 💬 and follow 👩🏼‍💻👨🏼‍💻
 <!--
 **smakunzva/SMAKUNZVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
