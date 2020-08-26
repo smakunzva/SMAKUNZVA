@@ -1,4 +1,4 @@
-<img class="image-placeholder" src="https://i.imgur.com/9dg3Pdn.jpg" style="width: 100px; height: 100px">
+<img class="image-placeholder" src="https://github.com/smakunzva/SMAKUNZVA/blob/master/king_juli.jpg">
 
 
 
