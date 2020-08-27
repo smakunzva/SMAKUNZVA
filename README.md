@@ -11,32 +11,44 @@ Please feel free to subscribe    🙋 🙋, share 😍, comment 💬 and follow 
 
 -------------
 
-![](https://img.shields.io/badge/language-java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/language-python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/language-typescript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/language-javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/language-html-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/framework-spring-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/framework-springboot-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/framework-jee-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/cloudplatform-gcp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/cloudplatform-aws-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/platform-docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/platform-kubernetes-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/architecture-microservices-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/architecture-servicemesh-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/framework-angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-css-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring_boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angularjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Netbeans-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MS%20SQL%20Server-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-google_cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-amazon-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
 ------------------------------------------------------------------------------------------------------------
-I like reading technology books and also review software development manuscripts for Manning publications 📜. I'm working on becoming an open source contributor and will give more details once I make my first commit 😀 
+## 🔭 I'm working on
+I'm currently working on my small projects implementing micro-services using reactive programming. I like reading technology books and also review software development manuscripts for Manning publications 📜
+
+---------------------
+## 🌱 I'm currently learning
+I'm learming to becoming an open source contributor for Spring Core and will give more details once I make my first commit 😀 
 
 ------------------------------------------------------------------------------------------------------------
+## 👯 Join us
 I'm also a co-ordinator of the CapeTown Java Community and do join our group when we schedule online events
 https://www.meetup.com/Cape-Town-Java-Meetup
 
-
 ---------------------------------------------------------------------------------------
-
-How to reach me: ...
+## 📫 How to reach me: ...
 <!-- Actual text -->
 
   [![Twitter][1.2]][1]  ![LinkedIn][2.2]
