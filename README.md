@@ -56,7 +56,7 @@ https://www.meetup.com/Cape-Town-Java-Meetup
 
 <!-- Icons -->
 
-[1.2]: https://github.com/smakunzva/SMAKUNZVA/blob/master/skype_icon.png (twitter icon without padding)
+[1.2]: https://github.com/smakunzva/SMAKUNZVA/blob/master/twitter_icon.png (twitter icon without padding)
 [2.2]: https://github.com/smakunzva/SMAKUNZVA/blob/master/linkedin_icon.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
