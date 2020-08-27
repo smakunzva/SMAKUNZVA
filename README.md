@@ -6,7 +6,7 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-I'm Steven K Makunzva and I like sharing knowledge and writing code. I also have a blog were I post software development related topics from systems architecture, java programming, algorithms e.tc. https://www.developerssauna.stevekmak.com . I will share the code on some of the articles on this profile but other interesting things like challanges faced, lessons learnt and comments will be on the blog article.
+I'm Steven K Makunzva a Full-stack software developer and I live online  😁. I like sharing knowledge and writing code. I also have a blog were I post software development related topics from systems architecture, java programming, algorithms e.tc. https://www.developerssauna.stevekmak.com . I will share code on some of the articles on this profile but other interesting things like story behind the code, challanges faced, lessons learnt and comments will be on the blog article.
 Please feel free to subscribe    🙋 🙋, share 😍, comment 💬 and follow 👩🏼‍💻👨🏼‍💻
 
 -------------
@@ -44,7 +44,8 @@ I'm learming to becoming an open source contributor for Spring Core and will giv
 
 ------------------------------------------------------------------------------------------------------------
 ## 👯 Join us
-I'm also a co-ordinator of the CapeTown Java Community and do join our group when we schedule online events
+We do have an online community for Java developers which initially was for one of the most beautifull cities in the world i.e CapeTown but due to the digital world we living in location in no longer a barrier. I a co-organizer of the CapeTown Java Community and do join our group would love to have more members and it's an oppurtnity as well if you have something useful you would like to share.
+
 https://www.meetup.com/Cape-Town-Java-Meetup
 
 ---------------------------------------------------------------------------------------
