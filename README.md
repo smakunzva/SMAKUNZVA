@@ -22,12 +22,12 @@ https://www.meetup.com/Cape-Town-Java-Meetup
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on ![LinkedIn][2.2]
+You can find me on [![Twitter][1.2]][1] or on ![LinkedIn][2.2]
 
 <!-- Icons -->
 
-[1.2]: https://github.com/smakunzva/SMAKUNZVA/blob/master/twitter_icon.png
-[2.2]: https://github.com/smakunzva/SMAKUNZVA/blob/master/linkedin_icon.jpeg
+[1.2]: https://github.com/smakunzva/SMAKUNZVA/blob/master/skype_icon.png (twitter icon without padding)
+[2.2]: https://github.com/smakunzva/SMAKUNZVA/blob/master/linkedin_icon.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
